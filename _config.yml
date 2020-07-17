@@ -1,0 +1,19 @@
+# Site settings
+name: 胡越 Harry
+location: 上海
+company: 平安好医投资管理有限公司
+position: 系统开发工程师
+github: https://hjyxyy.github.io/
+facebook: https://hjyxyy.github.io/
+phone: 1762198XXXX
+email: h_y554@163.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
